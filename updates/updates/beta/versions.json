@@ -1,0 +1,20 @@
+{
+  "versions": [
+    {
+      "id": "0.0.9",
+      "label": "0.0.9 beta",
+      "tag": "beta",
+      "date": "Beta - Branching Paths",
+      "url": "https://theoddsofleaving.online/updates/builds/0.0.9.html",
+      "notes": ["FIXED: the Voidforged curse now fires.", "Fullscreen button, F11, adjustable zoom."]
+    },
+    {
+      "id": "0.0.8",
+      "label": "0.0.8 beta",
+      "tag": "testing",
+      "date": "Beta - skins and achievements fixed",
+      "url": "https://theoddsofleaving.online/updates/builds/0.0.8.html",
+      "notes": ["FIXED: the Voidforged curse now fires.", "Achievements unlock; mod skins apply."]
+    }
+  ]
+}
